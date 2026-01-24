@@ -1,12 +1,11 @@
 ---
-title: Home
-description: 
+title: Welcome to Upstate Mesh
+description: A mesh communication community group for the Capital District!
 published: true
-date: 2026-01-24T03:33:35.044Z
+date: 2026-01-24T05:48:27.647Z
 tags: 
 editor: markdown
-dateCreated: 2026-01-24T03:26:10.732Z
+dateCreated: 2026-01-24T04:54:25.147Z
 ---
 
-# Header
-Your content here
+# Upstate Mesh
