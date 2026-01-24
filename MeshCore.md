@@ -2,7 +2,7 @@
 title: MeshCore
 description: MeshCore is a multi platform system for secure text based communications using LoRa radio hardware
 published: true
-date: 2026-01-24T23:34:27.839Z
+date: 2026-01-24T23:34:55.162Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-24T05:29:26.004Z
@@ -18,7 +18,7 @@ In short MeshCore is software that runs on various kinds of hardware that have i
 
 ## Device Roles
 
-There are a few kinds of MeshCore devices:
+There are a few kinds of MeshCore devices that server different functions on the mesh network:
 
 * **Companion Bluetooth** - LoRa board that pairs with a phone or computer via bluetooth to send text messages from the phone or computer over the LoRa radio.
 * **Companion USB** - LoRa board that pairs with a phone or computer via USB to send text messages from the phone or computer over the LoRa radio.
