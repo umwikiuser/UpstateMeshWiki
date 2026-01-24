@@ -2,7 +2,7 @@
 title: MeshCore
 description: MeshCore is a multi platform system for secure text based communications using LoRa radio hardware
 published: true
-date: 2026-01-24T23:35:12.655Z
+date: 2026-01-24T23:36:55.786Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-24T05:29:26.004Z
@@ -25,7 +25,7 @@ There are a few kinds of MeshCore devices that serve different functions on the 
 * **Repeater** - A standalone LoRa board that repeats incoming packets to the wider mesh network. Often paired with strong antenna and solar pannels to run coninously outdoors.
 * **Room Server** - Room servers store message history on them and push the stored messages to users. Room servers allow roaming users to come back later and retrieve message that were recieved while the user was out of range.
 
-The most common devices are `Companion Bluetooth/USB` and `Repeater`. 
+The most common devices are `Companion Bluetooth/USB` and `Repeater`. There is also the ability to configure IoT devices called sensors but we will focus on the message and communications aspects of MeshCore.
 
 ## How Do I Install MeshCore?
 
