@@ -2,8 +2,8 @@
 title: MeshCore
 description: MeshCore is a multi platform system for secure text based communications using LoRa radio hardware
 published: true
-date: 2026-01-25T03:03:29.083Z
-tags: 
+date: 2026-01-25T03:13:41.419Z
+tags: meshcore
 editor: markdown
 dateCreated: 2026-01-24T05:29:26.004Z
 ---
