@@ -2,7 +2,7 @@
 title: MeshCore Repeter Setup
 description: 
 published: true
-date: 2026-01-25T17:02:56.620Z
+date: 2026-01-25T17:03:06.994Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-25T03:39:40.128Z
@@ -13,7 +13,7 @@ dateCreated: 2026-01-25T03:39:40.128Z
 
 # Flash MeshCore as a Repeater
 
-This is a general guide for setting up a repeater that will work with the Upstate Mesh network. It will not cover all device specifics.
+This is a general guide for setting up a repeater that will work with the Upstate Mesh MeshCore network. It will not cover all device specifics.
 
 ## Overview
 
