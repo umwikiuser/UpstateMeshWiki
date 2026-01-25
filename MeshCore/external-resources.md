@@ -2,7 +2,7 @@
 title: MeshCore External Resources
 description: 
 published: true
-date: 2026-01-25T19:24:40.202Z
+date: 2026-01-25T19:24:56.049Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-25T19:15:26.088Z
@@ -14,7 +14,7 @@ The official map provided by the MeshCore project that displays nodes on the net
 
 https://meshcore.co.uk/map.html
 
-## map.meshcore.dev
+## Meshcore Dev Map
 
 Another map that displays nodes and their location on a map.
 
