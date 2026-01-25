@@ -2,7 +2,7 @@
 title: MeshCore
 description: MeshCore is a multi platform system for secure text based communications using LoRa radio hardware
 published: true
-date: 2026-01-25T07:54:24.061Z
+date: 2026-01-25T07:54:41.419Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-24T05:29:26.004Z
@@ -24,7 +24,6 @@ To quickly set those values via commandline:
 ```python
 set radio 910.525,62.5,9,8
 ```
-
 
 ## What Is MeshCore?
 
