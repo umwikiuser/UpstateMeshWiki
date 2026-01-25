@@ -2,7 +2,7 @@
 title: MeshCore Repeter Setup
 description: 
 published: true
-date: 2026-01-25T17:03:06.994Z
+date: 2026-01-25T17:20:54.725Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-25T03:39:40.128Z
@@ -127,4 +127,46 @@ You will likely have to put your device in DFU mode or flash mode. In order to f
 # Configure the Repeater
 
 
+On the setup page click the `Connect` button.
 
+<br/>
+<a href="/meshcore/screenshot/screenshot_2026-01-25_at_12.01.23_pm.png" target="_blank">
+  <img src="/meshcore/screenshot/screenshot_2026-01-25_at_12.01.23_pm.png" width="256">
+  <br/>click image to enlarge
+</a>
+
+
+Then select the device from the modal window and click `Connect`.
+
+<br/>
+<a href="/meshcore/screenshot/screenshot_2026-01-25_at_12.07.03_pm.png" target="_blank">
+  <img src="/meshcore/screenshot/screenshot_2026-01-25_at_12.07.03_pm.png" width="256">
+  <br/>click image to enlarge
+</a>
+
+On the setup page set the following:
+
+* `Name`: Name your repeater.
+* `Guest Password`: Set a strong guest password to prevent unauthorized access to device statistics.
+* `Admin Password`: Set a strong administrator password to prevent unauthorized access to the device configuration.
+
+> Admin Password
+> Ensure the administrator password is **NOT** the same password as the guest password!
+{.is-warning}
+
+* `Frequency(MHz)`: Set this to `910.525`
+* `Bandwidth(kHz)`: Set this to `62.5`
+* `Spreading factor`: Set this to `9`
+* `Coding rate`: Set this to `8`
+
+<br/>
+<a href="/meshcore/screenshot/screenshot_2026-01-25_at_12.08.46_pm.png" target="_blank">
+  <img src="/meshcore/screenshot/screenshot_2026-01-25_at_12.08.46_pm.png" width="256">
+  <br/>click image to enlarge
+</a>
+
+Then click the `Save settings` button.
+
+> 🎉 **Congratulations!**  
+> Your device is now configured and connected to the MeshCore network.
+{.is-success}
