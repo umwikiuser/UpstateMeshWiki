@@ -1,8 +1,8 @@
 ---
-title: Meshtastic
+title: <img src="/meshtastic_logo.png" alt="meshcore_logo" width="32" height="32"> Meshtastic
 description: Meshtastic is a decentralized, off-grid network that lets you send and receive messages
 published: true
-date: 2026-01-25T03:24:38.105Z
+date: 2026-01-25T03:26:00.992Z
 tags: meshtastic
 editor: markdown
 dateCreated: 2026-01-24T05:28:14.750Z
