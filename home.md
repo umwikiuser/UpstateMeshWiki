@@ -2,12 +2,11 @@
 title: Welcome to Upstate Mesh
 description: A mesh communication community group for the Capital District!
 published: true
-date: 2026-01-25T03:42:07.171Z
+date: 2026-01-25T03:42:28.332Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-24T04:54:25.147Z
 ---
-
 
 > This page is a work in progress
 {.is-warning}
