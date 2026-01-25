@@ -2,7 +2,7 @@
 title: MeshCore Companion Setup
 description: 
 published: true
-date: 2026-01-25T06:51:16.986Z
+date: 2026-01-25T06:52:49.053Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-25T03:38:50.253Z
@@ -60,12 +60,14 @@ Firmware images are **device-specific**. Flashing the wrong firmware may prevent
 3. Connect your device to your computer using USB.
 4. Type your device model in the list and select your device type.
   
+<br/>
   <a href="/meshcore/screenshot/screenshot_2026-01-24_at_11.16.28_pm.png" target="_blank">
     <img src="/meshcore/screenshot/screenshot_2026-01-24_at_11.16.28_pm.png" width="256">
   </a>
 
 5. Select either `Companion Bluetooth` or `Companion USB` depending on how you plan to use the device.
   
+<br/>
   <a href="/meshcore/screenshot/screenshot_2026-01-24_at_11.21.20_pm.png" target="_blank">
     <img src="/meshcore/screenshot/screenshot_2026-01-24_at_11.21.20_pm.png" width="256">
   </a>
@@ -75,7 +77,8 @@ Firmware images are **device-specific**. Flashing the wrong firmware may prevent
   > **Erase Warning**
   All data on the device will be destroyed. There is no need to do this when updating firmware unless specifically noted. Since this device is new and may have come pre-loaded with Meshtastic it makes sense to wipe it in this case.
   {.is-warning}
-  
+
+<br/>
   <a href="/meshcore/screenshot/screenshot_2026-01-24_at_11.26.15_pm.png" target="_blank">
     <img src="/meshcore/screenshot/screenshot_2026-01-24_at_11.26.15_pm.png" width="256">
   </a>
@@ -99,18 +102,21 @@ Open the app. If using Bluetooth and pair the companion.
 
 Connect to the companion by clicking the `Connect` button.
 
+<br/>
   <a href="/meshcore/screenshot/5113415b73f29c47a4429f5bfb881e77d809043c82dc3e8b670dc5b50e05e1b7.jpg" target="_blank">
     <img src="/meshcore/screenshot/5113415b73f29c47a4429f5bfb881e77d809043c82dc3e8b670dc5b50e05e1b7.jpg" width="128">
   </a>
 
 Select the companion device from the list.
 
+<br/>
   <a href="/meshcore/screenshot/6a106884b90b28ee5a0fe7b3e98e97c0bbd2f4f5ef8052babac9b0c8a8acd17f.png" target="_blank">
     <img src="/meshcore/screenshot/6a106884b90b28ee5a0fe7b3e98e97c0bbd2f4f5ef8052babac9b0c8a8acd17f.png" width="128">
   </a>
 
 Click the settings cog at the top.
 
+<br/>
   <a href="/meshcore/screenshot/e86a90d01177e15ff867f943e51da1065d140aa64f84743aafcc79c1f933b399.jpg" target="_blank">
     <img src="/meshcore/screenshot/e86a90d01177e15ff867f943e51da1065d140aa64f84743aafcc79c1f933b399.jpg" width="128">
   </a>
@@ -127,6 +133,7 @@ Next set the following values:
 
 Then click the white check mark at the top to save the settings.
 
+<br/>
   <a href="/meshcore/screenshot/screenshot_2026-01-25_at_1.32.42_am.jpg" target="_blank">
     <img src="/meshcore/screenshot/screenshot_2026-01-25_at_1.32.42_am.jpg" width="128">
   </a>
