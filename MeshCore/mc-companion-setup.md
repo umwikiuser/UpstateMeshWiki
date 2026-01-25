@@ -2,7 +2,7 @@
 title: MeshCore Companion Setup
 description: 
 published: true
-date: 2026-01-25T16:53:26.431Z
+date: 2026-01-25T17:01:44.488Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-25T03:38:50.253Z
