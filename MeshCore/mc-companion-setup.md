@@ -2,7 +2,7 @@
 title: MeshCore Companion Setup
 description: 
 published: true
-date: 2026-01-25T07:00:41.796Z
+date: 2026-01-25T13:12:54.773Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-25T03:38:50.253Z
@@ -163,5 +163,5 @@ Click the **white check mark** at the top to save your settings.
 </a>
 
 > 🎉 **Congratulations!**  
-> Your device is now configured and connected to our MeshCore network.
+> Your device is now configured and connected to the MeshCore network.
 {.is-success}
