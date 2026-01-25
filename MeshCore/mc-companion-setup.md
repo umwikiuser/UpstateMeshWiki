@@ -2,13 +2,13 @@
 title: MeshCore Companion Setup
 description: 
 published: true
-date: 2026-01-25T13:12:54.773Z
+date: 2026-01-25T16:37:17.228Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-25T03:38:50.253Z
 ---
 
-# Flash MeshCore
+# Flash MeshCore as a Companion
 
 ## Overview
 
