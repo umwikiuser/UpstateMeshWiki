@@ -2,7 +2,7 @@
 title: MeshCore
 description: MeshCore is a multi platform system for secure text based communications using LoRa radio hardware
 published: true
-date: 2026-01-24T23:36:55.786Z
+date: 2026-01-25T03:03:29.083Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-24T05:29:26.004Z
@@ -28,5 +28,6 @@ There are a few kinds of MeshCore devices that serve different functions on the 
 The most common devices are `Companion Bluetooth/USB` and `Repeater`. There is also the ability to configure IoT devices called sensors but we will focus on the message and communications aspects of MeshCore.
 
 ## How Do I Install MeshCore?
+
 
 
