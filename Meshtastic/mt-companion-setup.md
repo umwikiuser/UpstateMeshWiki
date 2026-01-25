@@ -2,7 +2,7 @@
 title: Meshtastic Companion Setup
 description: 
 published: true
-date: 2026-01-25T18:47:11.279Z
+date: 2026-01-25T18:51:44.348Z
 tags: meshtastic
 editor: markdown
 dateCreated: 2026-01-25T18:33:47.348Z
@@ -165,27 +165,6 @@ Download the MeshCore companion app for your platform:
   <br/>click image to enlarge
 </a>
 
----
-
-## Network Configuration
-
-Set the following values:
-
-- **Name**: Optional but recommended. This identifies you on the network
-- **Frequency (MHz)**: `910.525`
-- **Bandwidth**: `62.5`
-- **Spreading Factor**: `9`
-- **Coding Rate**: `8`
-- **Transmit Power**: Depends on your antenna; `10` is a reasonable default
-
-Click the **white check mark** at the top to save your settings.
-
-<br/>
-<a href="/meshcore/screenshot/screenshot_2026-01-25_at_1.32.42_am.jpg" target="_blank">
-  <img src="/meshcore/screenshot/screenshot_2026-01-25_at_1.32.42_am.jpg" width="128">
-  <br/>click image to enlarge
-</a>
-
 > 🎉 **Congratulations!**  
-> Your device is now configured and connected to the MeshCore network.
+> Your device is now configured and connected to the Meshtastic network.
 {.is-success}
