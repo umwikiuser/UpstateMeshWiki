@@ -2,7 +2,7 @@
 title: MeshCore External Resources
 description: 
 published: true
-date: 2026-01-25T19:24:17.060Z
+date: 2026-01-25T19:24:40.202Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-25T19:15:26.088Z
@@ -33,7 +33,7 @@ A suite of tools for MeshCore that include:
 
 https://analyzer.letsmesh.net/
 
-## MAPME.SH
+## MapMe
 
 A crowdsourced coverage map that you can contribute to using your MeshCore companion. This map shows real world coverage as reported by participating MeshCore devices.
 
