@@ -2,13 +2,15 @@
 title: MeshCore Companion Setup
 description: 
 published: true
-date: 2026-01-25T17:01:44.488Z
+date: 2026-01-25T17:03:27.754Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-25T03:38:50.253Z
 ---
 
 # Flash MeshCore as a Companion
+
+This is a general guide for setting up a companion that will work with the Upstate Mesh MeshCore network. It will not cover all device specifics.
 
 ## Overview
 
