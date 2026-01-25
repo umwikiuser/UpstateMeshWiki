@@ -2,7 +2,7 @@
 title: Meshtastic
 description: Meshtastic is a decentralized, off-grid network that lets you send and receive messages
 published: true
-date: 2026-01-25T18:53:01.139Z
+date: 2026-01-25T18:53:07.141Z
 tags: meshtastic
 editor: markdown
 dateCreated: 2026-01-24T05:28:14.750Z
@@ -18,6 +18,6 @@ dateCreated: 2026-01-24T05:28:14.750Z
 > Meshtastic® is a project that enables you to use inexpensive LoRa radios as a long range off-grid communication platform in areas without existing or reliable communications infrastructure. This project is 100% community driven and open source! - [Meshtastic](https://meshtastic.org/docs/introduction/)
 
 
-## MeshCore Index
+## Meshtastic Index
 
 * [Meshtastic Companion Setup](/Meshtastic/mt-companion-setup)
