@@ -2,7 +2,7 @@
 title: MeshCore Companion Setup
 description: 
 published: true
-date: 2026-01-25T04:40:31.756Z
+date: 2026-01-25T06:44:29.353Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-25T03:38:50.253Z
@@ -89,3 +89,33 @@ Download the MeshCore app for your device:
 * **iOS**: [App Store](https://apps.apple.com/gb/app/meshcore/id6742354151)
 * **Chrome**: [Web App](https://app.meshcore.nz/)
 
+Open the app. If using Bluetooth and pair the companion.
+
+Connect to the companion by clicking the `Connect` button.
+
+![5113415b73f29c47a4429f5bfb881e77d809043c82dc3e8b670dc5b50e05e1b7.jpg](/meshcore/screenshot/5113415b73f29c47a4429f5bfb881e77d809043c82dc3e8b670dc5b50e05e1b7.jpg)
+
+Select the companion device from the list.
+
+![6a106884b90b28ee5a0fe7b3e98e97c0bbd2f4f5ef8052babac9b0c8a8acd17f.png](/meshcore/screenshot/6a106884b90b28ee5a0fe7b3e98e97c0bbd2f4f5ef8052babac9b0c8a8acd17f.png)
+
+Click the settings cog at the top.
+
+![e86a90d01177e15ff867f943e51da1065d140aa64f84743aafcc79c1f933b399.jpg](/meshcore/screenshot/e86a90d01177e15ff867f943e51da1065d140aa64f84743aafcc79c1f933b399.jpg)
+
+
+Next set the following values:
+
+* **Name**: Optional but reccomended, set a name for yourself on the network.
+* **Frequency (MHz)**: Set to `910.525`
+* **Bandwidth**: Set to `62.5`
+* **Spreading Factor**: Set to `9`
+* **Coding Rate**: Set to `8`
+* **Transmit Power**: Depends on your antenna but `10` is a reasonable default.
+
+Then click the white check mark at the top to save the settings.
+
+![screenshot_2026-01-25_at_1.32.42_am.jpg](/meshcore/screenshot/screenshot_2026-01-25_at_1.32.42_am.jpg)
+
+> Congratulations! Your companion is configured to connect with our MeshCore network! 
+{.is-success}
