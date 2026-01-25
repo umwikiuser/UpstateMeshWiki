@@ -2,7 +2,7 @@
 title: MeshCore Companion Setup
 description: 
 published: true
-date: 2026-01-25T06:52:49.053Z
+date: 2026-01-25T06:54:09.996Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-25T03:38:50.253Z
@@ -64,6 +64,9 @@ Firmware images are **device-specific**. Flashing the wrong firmware may prevent
   <a href="/meshcore/screenshot/screenshot_2026-01-24_at_11.16.28_pm.png" target="_blank">
     <img src="/meshcore/screenshot/screenshot_2026-01-24_at_11.16.28_pm.png" width="256">
   </a>
+ 
+ 
+~click image to enlarge~
 
 5. Select either `Companion Bluetooth` or `Companion USB` depending on how you plan to use the device.
   
