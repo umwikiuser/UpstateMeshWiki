@@ -2,8 +2,8 @@
 title: Meshtastic
 description: Meshtastic is a decentralized, off-grid network that lets you send and receive messages
 published: true
-date: 2026-01-24T23:09:32.458Z
-tags: 
+date: 2026-01-25T03:14:13.505Z
+tags: meshtastic
 editor: markdown
 dateCreated: 2026-01-24T05:28:14.750Z
 ---
