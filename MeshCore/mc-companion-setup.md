@@ -2,14 +2,13 @@
 title: MeshCore Companion Setup
 description: 
 published: true
-date: 2026-01-25T06:56:57.762Z
+date: 2026-01-25T06:57:49.811Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-25T03:38:50.253Z
 ---
 
-> This page is a work in progress
-{.is-warning}
+
 
 # Flash MeshCore
 
@@ -96,7 +95,7 @@ Firmware images are **device-specific**. Flashing the wrong firmware may prevent
   {.is-warning}
 
 
-## Step 3: Configure The Companion
+# Configure The Companion
 
 Download the MeshCore app for your device:
 
