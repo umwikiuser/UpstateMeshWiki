@@ -2,7 +2,7 @@
 title: Meshtastic Companion Setup
 description: 
 published: true
-date: 2026-01-25T18:33:47.348Z
+date: 2026-01-25T18:47:11.279Z
 tags: meshtastic
 editor: markdown
 dateCreated: 2026-01-25T18:33:47.348Z
@@ -138,29 +138,30 @@ Download the MeshCore companion app for your platform:
 
 ## Connect to the Device
 
-1. Open the MeshCore app.
-2. If using Bluetooth, pair your device with your phone or computer.
-3. Click the **`Connect`** button.
+1. Open the Meshtastic app.
+2. Using Bluetooth, pair your device with your phone or computer.
+3. Click the on the device from the node list.
+4. Click the `Set LoRa Region` button under the connected device.
 
 <br/>
-<a href="/meshcore/screenshot/5113415b73f29c47a4429f5bfb881e77d809043c82dc3e8b670dc5b50e05e1b7.jpg" target="_blank">
-  <img src="/meshcore/screenshot/5113415b73f29c47a4429f5bfb881e77d809043c82dc3e8b670dc5b50e05e1b7.jpg" width="128">
+<a href="/meshtastic/screenshot/7e47cab797790f9ef4a2e2832acac1b3c2faa48fb76ee4ceafc9db238f9c4127.jpg" target="_blank">
+  <img src="/meshtastic/screenshot/7e47cab797790f9ef4a2e2832acac1b3c2faa48fb76ee4ceafc9db238f9c4127.jpg" width="128">
   <br/>click image to enlarge
 </a>
 
-4. Select your companion device from the list.
+5. Click the `Region` dropdown and select `United States` from the list.
 
 <br/>
-<a href="/meshcore/screenshot/6a106884b90b28ee5a0fe7b3e98e97c0bbd2f4f5ef8052babac9b0c8a8acd17f.png" target="_blank">
-  <img src="/meshcore/screenshot/6a106884b90b28ee5a0fe7b3e98e97c0bbd2f4f5ef8052babac9b0c8a8acd17f.png" width="128">
+<a href="/meshtastic/screenshot/4a16f6f3ebf9ae8434d8f365a7668901d5810a798d627d8442d47a0365d1a554.jpg" target="_blank">
+  <img src="/meshtastic/screenshot/4a16f6f3ebf9ae8434d8f365a7668901d5810a798d627d8442d47a0365d1a554.jpg" width="128">
   <br/>click image to enlarge
 </a>
 
-5. Click the **settings cog** at the top of the screen.
+6. Click `Save`. Your device will reboot.
 
 <br/>
-<a href="/meshcore/screenshot/e86a90d01177e15ff867f943e51da1065d140aa64f84743aafcc79c1f933b399.jpg" target="_blank">
-  <img src="/meshcore/screenshot/e86a90d01177e15ff867f943e51da1065d140aa64f84743aafcc79c1f933b399.jpg" width="128">
+<a href="/meshtastic/screenshot/5d037f3fcb14c28c77c9785913609582b54feb07674d1c079c70f8e5f8682fe5.jpg" target="_blank">
+  <img src="/meshtastic/screenshot/5d037f3fcb14c28c77c9785913609582b54feb07674d1c079c70f8e5f8682fe5.jpg" width="128">
   <br/>click image to enlarge
 </a>
 
