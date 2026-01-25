@@ -2,7 +2,7 @@
 title: MeshCore
 description: MeshCore is a multi platform system for secure text based communications using LoRa radio hardware
 published: true
-date: 2026-01-25T03:23:40.704Z
+date: 2026-01-25T03:40:49.285Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-24T05:29:26.004Z
@@ -30,7 +30,5 @@ The most common devices are `Companion Bluetooth/USB` and `Repeater`. There is a
 
 ## MeshCore Index
 
-
-
-
-
+* [MeshCore Companion Setup](/MeshCore/mc-companion-setup)
+* [MeshCore Repeater Setup](/MeshCore/mc-repeater-setup)
