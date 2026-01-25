@@ -2,7 +2,7 @@
 title: MeshCore Companion Setup
 description: 
 published: true
-date: 2026-01-25T16:37:17.228Z
+date: 2026-01-25T16:46:01.075Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-25T03:38:50.253Z
@@ -90,7 +90,14 @@ If you are unsure which device you have, stop and ask for help before continuing
   <br/>click image to enlarge
 </a>
 
-7. Click the **`Flash!`** button.
+
+7. Click the **`Flash!`** button. Then select your device from the list and click `Connect`
+
+<br/>
+<a href="/meshcore/screenshot/screenshot_2026-01-25_at_11.44.14_am.png" target="_blank">
+  <img src="/meshcore/screenshot/screenshot_2026-01-25_at_11.44.14_am.png" width="256">
+  <br/>click image to enlarge
+</a>
 
 > **Flashing Warning**  
 > Be patient while the device is erased and the new firmware is installed.  
