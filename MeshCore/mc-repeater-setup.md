@@ -2,7 +2,7 @@
 title: MeshCore Repeter Setup
 description: 
 published: true
-date: 2026-01-25T17:25:35.302Z
+date: 2026-02-06T15:59:14.824Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-25T03:39:40.128Z
@@ -155,6 +155,8 @@ On the setup page set the following:
 * `Bandwidth(kHz)`: Set this to `62.5`
 * `Spreading factor`: Set this to `9`
 * `Coding rate`: Set this to `8`
+
+NOTE: 2/6 - the region is currently testing CR7, please use that setting until this notice is updated!
 
 <br/>
 <a href="/meshcore/screenshot/screenshot_2026-01-25_at_12.08.46_pm.png" target="_blank">
