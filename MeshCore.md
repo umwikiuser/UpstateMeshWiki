@@ -2,7 +2,7 @@
 title: MeshCore
 description: MeshCore is a multi platform system for secure text based communications using LoRa radio hardware
 published: true
-date: 2026-02-07T16:42:09.497Z
+date: 2026-02-07T16:47:48.509Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-24T05:29:26.004Z
@@ -14,15 +14,19 @@ dateCreated: 2026-01-24T05:29:26.004Z
 
 The following radio values are used on the Upstate Mesh MeshCore network
 
+> Spreading factor Test 2/6/2026
+> The region is currently testing `SF7` not, please use `7` **not** `9` until this notice is updated!
+{.is-warning}
+
 * **Frequency (MHz)**: `910.525`
 * **Bandwidth**: `62.5`
-* **Spreading Factor**: `7`
-* **Coding Rate**: `5`
+* **Spreading Factor**: `9`
+* **Coding Rate**: `8`
 
 To quickly set those values via commandline:
 
 ```python
-set radio 910.525,62.5,7,5
+set radio 910.525,62.5,9,8
 ```
 
 ## What Is MeshCore?
