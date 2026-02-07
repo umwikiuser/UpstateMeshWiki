@@ -2,7 +2,7 @@
 title: Welcome to Upstate Mesh
 description: A mesh communication community group for the Capital District!
 published: true
-date: 2026-02-07T22:12:45.620Z
+date: 2026-02-07T22:22:58.221Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-24T04:54:25.147Z
@@ -14,6 +14,8 @@ dateCreated: 2026-01-24T04:54:25.147Z
 
 
 We use both Meshtastic and MeshCore at Upstate Mesh. A lot of us even have devices for both! Our goal is to build out and support resilient community driven mesh networks regardless of the protocol or device firmware.
+
+If you have not already, check out the [UM Discord](https://discord.gg/FvajRmXEsb)!
 
 ## <img src="/meshtastic_logo.png" alt="meshcore_logo" width="24" height="24"> Meshtastic
 
