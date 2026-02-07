@@ -2,7 +2,7 @@
 title: MeshCore
 description: MeshCore is a multi platform system for secure text based communications using LoRa radio hardware
 published: true
-date: 2026-02-07T16:47:48.509Z
+date: 2026-02-07T22:20:53.263Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-24T05:29:26.004Z
@@ -34,6 +34,10 @@ set radio 910.525,62.5,9,8
 > MeshCore is a multi platform system for enabling secure text based communications utilising LoRa radio hardware. It can be used for Off-Grid Communication, Emergency Response & Disaster Recovery, Outdoor Activities, Tactical Security including law enforcement and private security and also IoT sensor networks. - [MeshCore](https://meshcore.co.uk/)
 
 In short MeshCore is software that runs on various kinds of hardware that have integrated LoRa radios. In even simpler terms think of MeshCore like an operating system like Anroid or iOS and the LoRa hardware like an iPhone or Galaxy S phone.
+
+## UM MeshCore
+
+When compared to Meshtastic, MeshCore is designed to have dedicated repeater infrastructure. This backbone of well placed repeaters allows for larger areas of coverage and less congestion. Within UM we have a growing network of repeaters and we're always expanding. If you have access to a high place in the region and are interested in running a repeater, reach out to us on the `#meshcore-general` channel in the UM discord!
 
 ## Device Roles
 
