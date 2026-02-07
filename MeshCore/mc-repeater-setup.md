@@ -2,7 +2,7 @@
 title: MeshCore Repeter Setup
 description: 
 published: true
-date: 2026-02-07T16:44:50.655Z
+date: 2026-02-07T16:49:22.491Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-25T03:39:40.128Z
@@ -151,14 +151,14 @@ On the setup page set the following:
 > Ensure the administrator password is **NOT** the same password as the guest password!
 {.is-warning}
 
+> Spreading factor Test 2/6/2026
+> The region is currently testing `SF7` not, please use `7` **not** `9` until this notice is updated!
+{.is-warning}
+
 * `Frequency(MHz)`: Set this to `910.525`
 * `Bandwidth(kHz)`: Set this to `62.5`
 * `Spreading factor`: Set this to `9`
 * `Coding rate`: Set this to `8`
-
-> Spreading factor Test 2/6/2026
-> The region is currently testing SF7, please use that setting until this notice is updated!
-{.is-warning}
 
 <br/>
 <a href="/meshcore/screenshot/screenshot_2026-01-25_at_12.08.46_pm.png" target="_blank">
