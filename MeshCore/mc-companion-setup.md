@@ -2,7 +2,7 @@
 title: MeshCore Companion Setup
 description: 
 published: true
-date: 2026-01-25T17:25:22.570Z
+date: 2026-02-07T16:43:01.865Z
 tags: meshcore
 editor: markdown
 dateCreated: 2026-01-25T03:38:50.253Z
@@ -164,17 +164,17 @@ Set the following values:
 - **Name**: Optional but recommended. This identifies you on the network
 - **Frequency (MHz)**: `910.525`
 - **Bandwidth**: `62.5`
-- **Spreading Factor**: `9`
-- **Coding Rate**: `8`
+- **Spreading Factor**: `7`
+- **Coding Rate**: `5`
 - **Transmit Power**: Depends on your antenna; `10` is a reasonable default
 
 Click the **white check mark** at the top to save your settings.
 
-<br/>
+<!--<br/>
 <a href="/meshcore/screenshot/screenshot_2026-01-25_at_1.32.42_am.jpg" target="_blank">
   <img src="/meshcore/screenshot/screenshot_2026-01-25_at_1.32.42_am.jpg" width="128">
   <br/>click image to enlarge
-</a>
+</a>-->
 
 > 🎉 **Congratulations!**  
 > Your device is now configured and connected to the MeshCore network.
